@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894253807669",
+    "project_id": "weforshe-project",
+    "storage_bucket": "weforshe-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894253807669:android:a7d166bbdc9cd77639d97c",
+        "android_client_info": {
+          "package_name": "com.example.weforshe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoT_0w0XNBxp82dB9DAr5slu5MTDPSKko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
